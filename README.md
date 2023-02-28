@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C,C++,python and react<br>👯 I’m looking to collaborate on web application pen-testing<br>🤝 I’m looking for help with the problem solving and DSA<br>🌱 I’m currently learning javascript and react<br>⚡ Fun fact --> Descartes said, "I think, therefore I am"
+🔭 I’m currently working on C, C++, python and react<br>👯 I’m looking to collaborate on web application pen-testing<br>🤝 I’m looking for help with the problem solving and DSA<br>🌱 I’m currently learning javascript and react<br>⚡ Fun fact --> Descartes said, "I think, therefore I am"
 
 
 ## 🌐 Socials:
