@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on C, C++, python and react<br>👯 I’m looking to collaborate on projects based on python and react<br>💁🏻 I’m looking for help with the problem solving and DSA<br>🌱 I’m currently learning javascript and react<br>⚡ Fun fact --> Descartes said, "I think, therefore I am"
+### 💫 About Me:
+* 🔭 I’m currently architecting high-throughput backend systems, distributed microservices, and performance-tuned pipelines (and occasionally wrangling C, C++ and Python).<br>
+* 💁🏻 I’m looking for help with leveling up my **problem-solving and DSA** game.<br>
+* 💼 By day: Scaling backend services, cutting sync times, and keeping production systems bulletproof. By night: Still writing code.<br>
+* ⚡ Fun fact $\rightarrow$ Descartes said, *"I think, therefore I am"*... but as a backend engineer, I prefer: *"I log, therefore I debug."*
 
 
 ## 🌐 Socials:
